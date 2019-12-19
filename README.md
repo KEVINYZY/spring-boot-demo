@@ -3,7 +3,7 @@
 ### Spring Cloud Demo：[https://github.com/roncoo/spring-cloud-demo](https://github.com/roncoo/spring-cloud-demo)
 
 ### 本项目为Spring Boot的基础教程
-金丹期项目哈哈，比较基础，项目名称是序号，不太好辨认每个module功能，不推荐，适合快速入门。
+金丹期项目哈哈，比较基础，项目名称是序号，不太好辨认每个module功能，这点不太好，适合快速入门。
 - 教程视频：[免费篇](http://www.roncoo.com/course/view/e4189c9db6474745b5e578983cddd112)
 - 教程视频：[Spring boot全集](http://www.roncoo.com/course/view/c99516ea604d4053908c1768d6deee3d#boxTwo)
 - 教程视频：[Srping cloud第一季](http://www.roncoo.com/course/view/cc8fbd6749f94f2fa015641ef96b9460#boxTwo)
